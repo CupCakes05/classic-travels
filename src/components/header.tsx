@@ -50,7 +50,7 @@ export default function App() {
         />
         <NavbarBrand>
           <AcmeLogo />
-          <p className="font-bold text-inherit">ACME</p>
+          <p className="font-bold text-inherit">Classic Travells</p>
         </NavbarBrand>
       </NavbarContent>
 
